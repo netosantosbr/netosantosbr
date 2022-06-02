@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m José Alfredo
-- 👀 I am currently learning Java language and improving my skills at OOP.
-- 👨‍🎓 I’m currently learning Analysis and Systems Development
+- 👀 I am currently learning Java language and improving my skills in Object Oriented Programming.
+- 👨‍🎓 I am majoring in Systems Analysis and Development.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
