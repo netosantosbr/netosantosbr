@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m José Alfredo
-- 👀 I am currently learning Java language and improving my skills in Object Oriented Programming.
+- 👀 I am currently learning Java language and improving my skills in Object Oriented Programming. Also learning about Web Development.
 - 👨‍🎓 I am majoring in Systems Analysis and Development.
 
 <div style="display: inline_block"><br>
