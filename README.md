@@ -1,6 +1,7 @@
 ## 👋 Hi, I’m José Alfredo
-- 👀 I am currently learning Java language and improving my skills in Object Oriented Programming. Also learning about Web Development.
+- ✍️ I am currently taking trainings to advance my knowledgment on the frontend frameworks **React**, **Angular** and **Vue**. Besides that, I have solid knowledge on **Object Oriented Programming**, **programming logic**, **HTML**, **CSS**, **Springboot**, **API Rest**, **JavaScript** and **MySQL**. Also, **Python** and **Java** are the programming languages which I am continuously practicing.
 - 👨‍🎓 I am majoring in Systems Analysis and Development.
+- 😁 **Be welcome to see what I have been done during my progress as software developer.**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
