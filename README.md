@@ -1,25 +1,51 @@
-## 👋 Hi, I’m José Alfredo
-- ✍️ I am currently taking trainings to advance my knowledgment on the frontend frameworks **React**, **Angular** and **Vue**. Besides that, I have solid knowledge on **Object Oriented Programming**, **programming logic**, **HTML**, **CSS**, **Springboot**, **API Rest**, **JavaScript** and **MySQL**. Also, **Python** and **Java** are the programming languages which I am continuously practicing.
-- 👨‍🎓 I am majoring in Systems Analysis and Development.
-- 😁 **Be welcome to see what I have been done during my progress as software developer.**
+## 👋 Hi, I’m José Alfredo!
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div><br>
-  
- 
-  <div align="center">
+**Fullstack Software Engineer | Java & JavaScript Ecosystems**
+
+I am a software developer passionate about building end-to-end solutions, bridging the gap between robust, scalable backends and dynamic, responsive frontends.
+
+### 🚀 About Me
+- ⚙️ **Backend:** Solid experience building resilient RESTful APIs and microservices using **Java**, **Spring Boot**, and **Python**.
+- 🖥️ **Frontend:** Creating engaging user interfaces with **React**, **Angular**, **Vue**, and modern **JavaScript/TypeScript**.
+- 📡 **Currently exploring:** Event-driven architectures with **Apache Kafka** and Distributed Tracing.
+- 👨‍🎓 **Academic:** Majoring in Systems Analysis and Development.
+- 💡 **Motto:** Delivering clean code from the database script to the final CSS pixel.
+
+### 🛠️ Tech Stack & Tools
+
+**Backend & Infra:**
+<div style="display: flex; gap: 15px; align-items: center; margin-bottom: 10px;">
+  <img alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="Spring" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Apache Kafka" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
+  <img alt="PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+</div>
+
+**Frontend:**
+<div style="display: flex; gap: 15px; align-items: center; margin-bottom: 20px;">
+  <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+  <img alt="Vue" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+### 📊 GitHub Stats
+
+<div align="left">
   <a href="https://github.com/netosantosbr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=netosantosbr&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netosantosbr&layout=compact&langs_count=8&theme=highcontrast"/>
-</div><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netosantosbr&layout=compact&langs_count=6&theme=highcontrast"/>
+  </a>
+</div>
+<br>
+
+### 📫 Let's Connect
 
 <div> 
-  <a href = "mailto:netoalfredo9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/netosantosbr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:netoalfredo9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jose-alfredo-s-tenorio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/netosantosbr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
