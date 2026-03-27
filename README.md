@@ -42,6 +42,7 @@ I am a software developer passionate about building end-to-end solutions, bridgi
 
 <div align="left">
   <a href="https://github.com/netosantosbr">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=netosantosbr&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 <br>
